@@ -9,6 +9,6 @@ numbered list
 2. item two
 3. item three
    
-_italic_
+_italic text_
 
-**bold**
+**bold text**
